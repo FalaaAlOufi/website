@@ -60,13 +60,14 @@ h2, strong, h3{
   margin-top: 0;
 }
 
+.features {
+
+}
+
 .feature {
-  background-color: #ffeb3b;
-  width: 33%; 
-  display: inline-block;
-  margin: 0; 
-  padding: 0; 
-  border: 10px solid #fff; 
+  /*background-color: yellow;*/
+  width: 33%; display: inline-block;
+  margin: 0; padding: 0; border: 10px solid #fff;
   text-align: center;
 }
 
